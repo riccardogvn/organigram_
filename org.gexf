@@ -1,0 +1,1047 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-09-13">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Abraham Trust" label="Abraham Trust" />
+      <node id="Geoffrey Jenkinson" label="Geoffrey Jenkinson" />
+      <node id="Benjamin Bishop Johnson" label="Benjamin Bishop Johnson" />
+      <node id="David Swetnam" label="David Swetnam" />
+      <node id="Donald Hales" label="Donald Hales" />
+      <node id="Leonardo Patterson" label="Leonardo Patterson" />
+      <node id="Giacomo Medici" label="Giacomo Medici" />
+      <node id="Nikolas Koutoulakis" label="Nikolas Koutoulakis" />
+      <node id="Jack Ogden" label="Jack Ogden" />
+      <node id="Michael Ward Gallery" label="Michael Ward Gallery" />
+      <node id="Joel Malter" label="Joel Malter" />
+      <node id="Robert Olson" label="Robert Olson" />
+      <node id="John Betts" label="John Betts" />
+      <node id="Paul Clifford" label="Paul Clifford" />
+      <node id="Roxanna Brown" label="Roxanna Brown" />
+      <node id="Jonathan and Cari Markell" label="Jonathan and Cari Markell" />
+      <node id="Edward Johnson" label="Edward Johnson" />
+      <node id="Immigration and Customs Enforcement" label="Immigration and Customs Enforcement" />
+      <node id="Carabinieri" label="Carabinieri" />
+      <node id="Dikran Sarrafian" label="Dikran Sarrafian" />
+      <node id="Euphronios ( Sarpedon ) krater" label="Euphronios ( Sarpedon ) krater" />
+      <node id="Precolumbian art" label="Precolumbian art" />
+      <node id="Barry MacLean" label="Barry MacLean" />
+      <node id="Ban Chiang pottery" label="Ban Chiang pottery" />
+      <node id="Berry &amp; Stark Associates" label="Berry &amp; Stark Associates" />
+      <node id="El Zotz Wooden Lintel" label="El Zotz Wooden Lintel" />
+      <node id="Art Gallery of New South Wales" label="Art Gallery of New South Wales" />
+      <node id="dragon ewers" label="dragon ewers" />
+      <node id="British Museum" label="British Museum" />
+      <node id="Nelson Rockefeller" label="Nelson Rockefeller" />
+      <node id="Loma Negra" label="Loma Negra" />
+      <node id="Peter G Wray" label="Peter G Wray" />
+      <node id="mask made of fuschite depicting the sun god" label="mask made of fuschite depicting the sun god" />
+      <node id="Michigan-based Orpheus Art" label="Michigan-based Orpheus Art" />
+      <node id="Predynastic opium poppy vase" label="Predynastic opium poppy vase" />
+      <node id="Robin Symes" label="Robin Symes" />
+      <node id="Morgantina Venus" label="Morgantina Venus" />
+      <node id="sealstones" label="sealstones" />
+      <node id="Leon Levy" label="Leon Levy" />
+      <node id="second Euphronios krater" label="second Euphronios krater" />
+      <node id="Shelby White" label="Shelby White" />
+      <node id="J Paul Getty Museum" label="J Paul Getty Museum" />
+      <node id="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " label="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " />
+      <node id="Second century AD copy of a head of Diadoumenos by Polykleitos" label="Second century AD copy of a head of Diadoumenos by Polykleitos" />
+      <node id="Metropolitan Museum of Art" label="Metropolitan Museum of Art" />
+      <node id="Museum für Indische Kunst" label="Museum für Indische Kunst" />
+      <node id="Uma Maheshwar" label="Uma Maheshwar" />
+      <node id="Provincial Archaeological Museum" label="Provincial Archaeological Museum" />
+      <node id="Silver Hoard of Everbeek" label="Silver Hoard of Everbeek" />
+      <node id="Sweden" label="Sweden" />
+      <node id="totem pole" label="totem pole" />
+      <node id="red-figure krater by Asteas" label="red-figure krater by Asteas" />
+      <node id="Alan C Lapiner" label="Alan C Lapiner" />
+      <node id="Museum of Primitive Art" label="Museum of Primitive Art" />
+      <node id="Alistair McAlpine" label="Alistair McAlpine" />
+      <node id="Detroit Institute of Art" label="Detroit Institute of Art" />
+      <node id="André Emmerich" label="André Emmerich" />
+      <node id="Antike Kunst Palladion" label="Antike Kunst Palladion" />
+      <node id="Art Consultancy" label="Art Consultancy" />
+      <node id="Anton Tkalec" label="Anton Tkalec" />
+      <node id="Antonio ‘Nino' Savoca" label="Antonio ‘Nino' Savoca" />
+      <node id="Luigi Coppola" label="Luigi Coppola" />
+      <node id="Barbara Fleischman" label="Barbara Fleischman" />
+      <node id="Michael Kelly" label="Michael Kelly" />
+      <node id="Charles Craig" label="Charles Craig" />
+      <node id="Dietrich von Bothmer" label="Dietrich von Bothmer" />
+      <node id="Robert Hecht" label="Robert Hecht" />
+      <node id="Enrico Poli" label="Enrico Poli" />
+      <node id="Pereda" label="Pereda" />
+      <node id="Fleischman Collection" label="Fleischman Collection" />
+      <node id="Atlantis Antiquities" label="Atlantis Antiquities" />
+      <node id="Fritz Bürki" label="Fritz Bürki" />
+      <node id="Fred Drew" label="Fred Drew" />
+      <node id="Frieda Tchacos" label="Frieda Tchacos" />
+      <node id="Hoi An" label="Hoi An" />
+      <node id="Captain Trang" label="Captain Trang" />
+      <node id="Jean Aurance" label="Jean Aurance" />
+      <node id="Pierre Langlois" label="Pierre Langlois" />
+      <node id="Marquess of Northampton" label="Marquess of Northampton" />
+      <node id="Korban and Tkalec" label="Korban and Tkalec" />
+      <node id="Maurice Tempelsman" label="Maurice Tempelsman" />
+      <node id="Michael Rockefeller" label="Michael Rockefeller" />
+      <node id="Andre Emmerich Gallery" label="Andre Emmerich Gallery" />
+      <node id="Everett Rassiga" label="Everett Rassiga" />
+      <node id="Earl Stendahl" label="Earl Stendahl" />
+      <node id="Antiquaria Romana" label="Antiquaria Romana" />
+      <node id="Thailand" label="Thailand" />
+      <node id="Renzo Canavesi" label="Renzo Canavesi" />
+      <node id="Ted Wiener" label="Ted Wiener" />
+      <node id="Clive Hollinshead" label="Clive Hollinshead" />
+      <node id="Hydra Gallery" label="Hydra Gallery" />
+      <node id="Samuel Schweitzer" label="Samuel Schweitzer" />
+      <node id="a collector from Chiasso" label="a collector from Chiasso" />
+      <node id="Josué Sáenz" label="Josué Sáenz" />
+      <node id="John Cummings" label="John Cummings" />
+      <node id="Christie's" label="Christie's" />
+      <node id="Orazio di Simone" label="Orazio di Simone" />
+      <node id="Arts Franc" label="Arts Franc" />
+      <node id="Pasquale Camera" label="Pasquale Camera" />
+      <node id="Gianfranco Becchina" label="Gianfranco Becchina" />
+      <node id="Vasek Polak" label="Vasek Polak" />
+      <node id="Christian Boursaud" label="Christian Boursaud" />
+      <node id="Mat Securitas" label="Mat Securitas" />
+      <node id="Sotheby's" label="Sotheby's" />
+      <node id="Tecafin Fiduciaire" label="Tecafin Fiduciaire" />
+      <node id="Geneva-based Editions Services" label="Geneva-based Editions Services" />
+      <node id="Israeli private collection" label="Israeli private collection" />
+      <node id="Moche pieces" label="Moche pieces" />
+      <node id="David Bernstein" label="David Bernstein" />
+      <node id="Andre Emmerich's New York Gallery" label="Andre Emmerich's New York Gallery" />
+      <node id="sarcophagus" label="sarcophagus" />
+      <node id="Editions Services" label="Editions Services" />
+      <node id="Euphronios" label="Euphronios" />
+      <node id="Euxitheos" label="Euxitheos" />
+      <node id="Armand Labbé" label="Armand Labbé" />
+      <node id="Bowers Museum" label="Bowers Museum" />
+      <node id="Cornelius C Vermeule III" label="Cornelius C Vermeule III" />
+      <node id="Boston Museum of Fine Arts" label="Boston Museum of Fine Arts" />
+      <node id="Julie Jones" label="Julie Jones" />
+      <node id="Larisa Zavadskaya" label="Larisa Zavadskaya" />
+      <node id="Hermitage" label="Hermitage" />
+      <node id="Marion True" label="Marion True" />
+      <node id="Bangkok University's Southeast Asian Ceramics Museum" label="Bangkok University's Southeast Asian Ceramics Museum" />
+      <node id="Sue McGovern" label="Sue McGovern" />
+      <node id="Sands of Time" label="Sands of Time" />
+      <node id="Art Collections Conservation Network" label="Art Collections Conservation Network" />
+      <node id="Michael Ward" label="Michael Ward" />
+      <node id="SPGH" label="SPGH" />
+      <node id="Lawrence Fleischman" label="Lawrence Fleischman" />
+      <node id="a vase" label="a vase" />
+      <node id="Mint Museum of Art" label="Mint Museum of Art" />
+      <node id="Nasher Museum of Art" label="Nasher Museum of Art" />
+      <node id="Alfonso Medellín Zenil" label="Alfonso Medellín Zenil" />
+      <node id="Museum of Anthropology" label="Museum of Anthropology" />
+      <node id="Denver Art Museum" label="Denver Art Museum" />
+      <node id="Bonhams" label="Bonhams" />
+      <node id="Egyptian Embassy" label="Egyptian Embassy" />
+      <node id="Santa Barbara Museum of Art" label="Santa Barbara Museum of Art" />
+      <node id="Galerie Nefer" label="Galerie Nefer" />
+      <node id="Gordon McClendon" label="Gordon McClendon" />
+      <node id="Los Angeles County Museum of Art" label="Los Angeles County Museum of Art" />
+      <node id="Michael Milken" label="Michael Milken" />
+      <node id="Michael Webb" label="Michael Webb" />
+      <node id="Elizabeth Shee Twohig" label="Elizabeth Shee Twohig" />
+      <node id="Museum of Fine Arts" label="Museum of Fine Arts" />
+      <node id="Antalya Museum" label="Antalya Museum" />
+      <node id="Weary Herakles" label="Weary Herakles" />
+      <node id="Barbier-Mueller Pre-Columbian Art Museum" label="Barbier-Mueller Pre-Columbian Art Museum" />
+      <node id="Germany" label="Germany" />
+      <node id="Anton Roeckl" label="Anton Roeckl" />
+      <node id="Las Limas" label="Las Limas" />
+      <node id="Rosa Manuel Pascual" label="Rosa Manuel Pascual" />
+      <node id="New York" label="New York" />
+      <node id="Peru" label="Peru" />
+      <node id="Raúl Apesteguía" label="Raúl Apesteguía" />
+      <node id="Medici Polaroid" label="Medici Polaroid" />
+      <node id="Asia" label="Asia" />
+      <node id="Rycroft Collection" label="Rycroft Collection" />
+      <node id="Departamento de Monumentos Arqueológicos" label="Departamento de Monumentos Arqueológicos" />
+      <node id="Dos Cabezas" label="Dos Cabezas" />
+      <node id="Phoenix Ancient Art" label="Phoenix Ancient Art" />
+      <node id="Giuseppe Mascara" label="Giuseppe Mascara" />
+      <node id="Luc Watrin" label="Luc Watrin" />
+      <node id="New York Times" label="New York Times" />
+      <node id="Edward Merrin" label="Edward Merrin" />
+      <node id="Flanders Heritage Agency" label="Flanders Heritage Agency" />
+      <node id="Velzeke Provincial Archaeological Museum" label="Velzeke Provincial Archaeological Museum" />
+      <node id="Supreme Court" label="Supreme Court" />
+      <node id="United States Customs" label="United States Customs" />
+      <node id="US Homeland Security" label="US Homeland Security" />
+      <node id="John Eskenazi" label="John Eskenazi" />
+      <node id="Cu Lao Cham" label="Cu Lao Cham" />
+      <node id="Placeres" label="Placeres" />
+      <node id="Jorge Alamilla" label="Jorge Alamilla" />
+      <node id="Machaquilá Stela 2" label="Machaquilá Stela 2" />
+      <node id="Julio Ullilén" label="Julio Ullilén" />
+      <node id="Laguna de los Cóndores" label="Laguna de los Cóndores" />
+      <node id="Nikolay Zavadsky" label="Nikolay Zavadsky" />
+      <node id="Occupants of the modern village of" label="Occupants of the modern village of" />
+      <node id="Ban Chiang" label="Ban Chiang" />
+      <node id="Pablo Soldi" label="Pablo Soldi" />
+      <node id="Ica Valley" label="Ica Valley" />
+      <node id="Sipán" label="Sipán" />
+      <node id="baby-face figure" label="baby-face figure" />
+      <node id="Las Bocas" label="Las Bocas" />
+      <node id="Morgantina" label="Morgantina" />
+      <node id="El Zotz" label="El Zotz" />
+      <node id="Temple 1" label="Temple 1" />
+      <node id="Cerveteri" label="Cerveteri" />
+      <node id="Moche headdress" label="Moche headdress" />
+      <node id="La Mina" label="La Mina" />
+      <node id="mosaic floor" label="mosaic floor" />
+      <node id="Zeugma" label="Zeugma" />
+      <node id="Olmec" label="Olmec" />
+      <node id="red sandstone figure of a Jina" label="red sandstone figure of a Jina" />
+      <node id="Vilasgarh temple" label="Vilasgarh temple" />
+      <node id="red-on-buff decorated pottery" label="red-on-buff decorated pottery" />
+      <node id="sacred textiles" label="sacred textiles" />
+      <node id="Coroma" label="Coroma" />
+      <node id="San Saba" label="San Saba" />
+      <node id="sculptural material" label="sculptural material" />
+      <node id="Xultún" label="Xultún" />
+      <node id="sculptures" label="sculptures" />
+      <node id="Hindu" label="Hindu" />
+      <node id="statuary" label="statuary" />
+      <node id="Stela 3" label="Stela 3" />
+      <node id="Aidonia_Greece Treasure" label="Aidonia_Greece Treasure" />
+      <node id="Aidonia_Greece" label="Aidonia_Greece" />
+      <node id="Perge" label="Perge" />
+      <node id="torso of a second century AD statue of the god" label="torso of a second century AD statue of the god" />
+      <node id="Italian Giustiniani Collection" label="Italian Giustiniani Collection" />
+      <node id="Wotol" label="Wotol" />
+      <node id="Vicús" label="Vicús" />
+      <node id="Mycenaean objects" label="Mycenaean objects" />
+      <node id="Alberto Luna" label="Alberto Luna" />
+      <node id="Mexico" label="Mexico" />
+      <node id="Munich" label="Munich" />
+      <node id="Bobbyo Imports" label="Bobbyo Imports" />
+      <node id="Bangkok" label="Bangkok" />
+      <node id="Chiang Mai" label="Chiang Mai" />
+      <node id="Los Angeles" label="Los Angeles" />
+      <node id="Singapore" label="Singapore" />
+      <node id="Geneva" label="Geneva" />
+      <node id="Miami" label="Miami" />
+      <node id="DR Bhandarkar" label="DR Bhandarkar" />
+      <node id="Atru" label="Atru" />
+      <node id="Vaman Ghiya" label="Vaman Ghiya" />
+      <node id="India" label="India" />
+      <node id="Rome" label="Rome" />
+      <node id="Switzerland" label="Switzerland" />
+      <node id="Glenn Rittenour" label="Glenn Rittenour" />
+      <node id="Milwaukee" label="Milwaukee" />
+      <node id="Harry Brown" label="Harry Brown" />
+      <node id="Helena" label="Helena" />
+      <node id="Olof Hansson" label="Olof Hansson" />
+      <node id="British Columbia" label="British Columbia" />
+      <node id="Sicily" label="Sicily" />
+      <node id="United States" label="United States" />
+      <node id="London" label="London" />
+      <node id="Roger Cornelius Russell Yorke" label="Roger Cornelius Russell Yorke" />
+      <node id="Truro" label="Truro" />
+      <node id="Stanley Boggs" label="Stanley Boggs" />
+      <node id="El Salvador" label="El Salvador" />
+      <node id="Steve Bourget" label="Steve Bourget" />
+      <node id="Swiss Air" label="Swiss Air" />
+      <node id="JFK Airport" label="JFK Airport" />
+      <node id="Udon" label="Udon" />
+      <node id="Athens" label="Athens" />
+      <node id="Puebla" label="Puebla" />
+      <node id="Sicyon" label="Sicyon" />
+      <node id="Lyssipos" label="Lyssipos" />
+      <node id="Silk Roads Gallery" label="Silk Roads Gallery" />
+      <node id="eBay" label="eBay" />
+      <node id="Butterfields" label="Butterfields" />
+      <node id="Artistic Imports Corporation )" label="Artistic Imports Corporation )" />
+      <node id="Cape Lion Logging" label="Cape Lion Logging" />
+      <node id="Megavena" label="Megavena" />
+      <node id="Justin Kerr" label="Justin Kerr" />
+      <node id="Maya Vase Database" label="Maya Vase Database" />
+      <node id="Marquis of Tavistock" label="Marquis of Tavistock" />
+      <node id="Toi moko" label="Toi moko" />
+      <node id="Ong Soo Hin" label="Ong Soo Hin" />
+      <node id="Saga Horizon" label="Saga Horizon" />
+      <node id="Peter Wilson" label="Peter Wilson" />
+      <node id="Rainer Zietz" label="Rainer Zietz" />
+      <node id="warehouse" label="warehouse" />
+      <node id="Sevso Treasure" label="Sevso Treasure" />
+      <node id="Merrin Gallery" label="Merrin Gallery" />
+      <node id="Caballo Pintado" label="Caballo Pintado" />
+      <node id="San Miguel la Palotada National Park" label="San Miguel la Palotada National Park" />
+      <node id="Flanders" label="Flanders" />
+      <node id="Belgium" label="Belgium" />
+      <node id="Zona Arqueológica Cerro Dos Cabezas" label="Zona Arqueológica Cerro Dos Cabezas" />
+      <node id="Jequetepeque Valley" label="Jequetepeque Valley" />
+      <node id="Sevso Plate" label="Sevso Plate" />
+      <node id="PIASA" label="PIASA" />
+      <node id="alabaster duck vessels" label="alabaster duck vessels" />
+      <node id="Barry Stern" label="Barry Stern" />
+      <node id="Hillwood Museum" label="Hillwood Museum" />
+      <node id="Mariane Yaldiz" label="Mariane Yaldiz" />
+      <node id="Riddi Pradhan" label="Riddi Pradhan" />
+      <node id="Department of Archaeology" label="Department of Archaeology" />
+      <node id="Thomas Hoving" label="Thomas Hoving" />
+      <node id="Geneva storerooms" label="Geneva storerooms" />
+      <node id="Royal Canadian Mounted Police" label="Royal Canadian Mounted Police" />
+      <node id="Steven Berger" label="Steven Berger" />
+      <node id="Ed Dwyer" label="Ed Dwyer" />
+      <node id="Marjorie Neikrug" label="Marjorie Neikrug" />
+      <node id="Brooklyn Museum" label="Brooklyn Museum" />
+      <node id="Joseph Garner" label="Joseph Garner" />
+      <node id="Johnnie Brown Fell" label="Johnnie Brown Fell" />
+      <node id="Jacqueline Swetnam" label="Jacqueline Swetnam" />
+      <node id="Egypt" label="Egypt" />
+      <node id="Ballcourt Marker" label="Ballcourt Marker" />
+      <node id="Guatemala" label="Guatemala" />
+      <node id="Italy" label="Italy" />
+      <node id="Dynasty Tomb of Mutirdis" label="Dynasty Tomb of Mutirdis" />
+      <node id="Museo Nacional de Arqueología e Etnología" label="Museo Nacional de Arqueología e Etnología" />
+      <node id="Macahquilá Stela 2" label="Macahquilá Stela 2" />
+      <node id="Machaquilá Stela 5" label="Machaquilá Stela 5" />
+      <node id="Gaziantep Museum" label="Gaziantep Museum" />
+      <node id="Chinese Embassy" label="Chinese Embassy" />
+      <node id="Greece" label="Greece" />
+      <node id="Turkey" label="Turkey" />
+      <node id="Villa Giulia" label="Villa Giulia" />
+      <node id="National Museum" label="National Museum" />
+      <node id="Canada" label="Canada" />
+      <node id="Nepal" label="Nepal" />
+      <node id="Patan Museum" label="Patan Museum" />
+      <node id="unprovenienced vessel" label="unprovenienced vessel" />
+      <node id="Morley Museum" label="Morley Museum" />
+      <node id="Antalya" label="Antalya" />
+      <node id="Philip Wilson" label="Philip Wilson" />
+      <node id="Tom Wilson" label="Tom Wilson" />
+      <node id="Rupert Wace" label="Rupert Wace" />
+      <node id="Egyptian" label="Egyptian" />
+      <node id="Precolumbian figurines" label="Precolumbian figurines" />
+      <node id="sea turtle eggs" label="sea turtle eggs" />
+      <node id="Syria" label="Syria" />
+      <node id="Japanese dealers" label="Japanese dealers" />
+      <node id="Vietnam" label="Vietnam" />
+      <node id="Spain" label="Spain" />
+      <node id="Los Angeles International Airport" label="Los Angeles International Airport" />
+      <node id="Miguel de Osma Berckemeyer" label="Miguel de Osma Berckemeyer" />
+      <node id="Occupants of the modern village of Ban Chiang" label="Occupants of the modern village of Ban Chiang" />
+      <node id="Bolivia" label="Bolivia" />
+      <node id="Vancouver" label="Vancouver" />
+      <node id="El Manatí Style Busts" label="El Manatí Style Busts" />
+      <node id="fake monumental head" label="fake monumental head" />
+      <node id="figural carvings" label="figural carvings" />
+      <node id="gold jewelry" label="gold jewelry" />
+      <node id="archaeological artefacts" label="archaeological artefacts" />
+      <node id="Guy Loudmer" label="Guy Loudmer" />
+      <node id="Hôtel des Ventes" label="Hôtel des Ventes" />
+      <node id="Hervé Poulin" label="Hervé Poulin" />
+      <node id="Hoi An ceramics" label="Hoi An ceramics" />
+      <node id="Arts of Asia" label="Arts of Asia" />
+      <node id="Joseph Garnish" label="Joseph Garnish" />
+      <node id="a Denver museum" label="a Denver museum" />
+      <node id="a Los Angeles museum" label="a Los Angeles museum" />
+      <node id="a Phoenix museum" label="a Phoenix museum" />
+      <node id="a Santa Barbara museum" label="a Santa Barbara museum" />
+      <node id="a Seattle museum" label="a Seattle museum" />
+      <node id="Emil Bernal" label="Emil Bernal" />
+      <node id="Frederick Schultz" label="Frederick Schultz" />
+      <node id="George Ortiz" label="George Ortiz" />
+      <node id="Hunt brothers" label="Hunt brothers" />
+      <node id="José Luis Várez Fisa" label="José Luis Várez Fisa" />
+      <node id="Cleveland Museum of Art" label="Cleveland Museum of Art" />
+      <node id="Halim Korban" label="Halim Korban" />
+      <node id="James Garriock" label="James Garriock" />
+      <node id="Jane Costello Goldberg" label="Jane Costello Goldberg" />
+      <node id="Juan Luis Pereira" label="Juan Luis Pereira" />
+      <node id="Alexander Yerofeyev" label="Alexander Yerofeyev" />
+      <node id="Leon J Buki" label="Leon J Buki" />
+      <node id="Wayne Anderson" label="Wayne Anderson" />
+      <node id="Mansur Mokhtarzade" label="Mansur Mokhtarzade" />
+      <node id="Paul Truel" label="Paul Truel" />
+      <node id="American Museum of Natural History" label="American Museum of Natural History" />
+      <node id="MacLean" label="MacLean" />
+      <node id="Wallis Gallery" label="Wallis Gallery" />
+      <node id="Sezai Portakalci" label="Sezai Portakalci" />
+      <node id="Royal Athena Galleries" label="Royal Athena Galleries" />
+      <node id="Stendahl Galleries" label="Stendahl Galleries" />
+      <node id="Minneapolis Institute of Arts" label="Minneapolis Institute of Arts" />
+      <node id="Ashmolean Museum" label="Ashmolean Museum" />
+      <node id="Princeton University Art Museum" label="Princeton University Art Museum" />
+      <node id="Toledo Museum of Art" label="Toledo Museum of Art" />
+      <node id="Noriyoshi Horiuchi" label="Noriyoshi Horiuchi" />
+      <node id="Miho Museum" label="Miho Museum" />
+      <node id="Cairo" label="Cairo" />
+      <node id="Melfi vases" label="Melfi vases" />
+      <node id="Niels Heidenreich" label="Niels Heidenreich" />
+      <node id="Golden Horns" label="Golden Horns" />
+      <node id="El Manatí" label="El Manatí" />
+      <node id="Delhi" label="Delhi" />
+      <node id="Jaipur" label="Jaipur" />
+      <node id="Mathura" label="Mathura" />
+      <node id="Finlyandskiy" label="Finlyandskiy" />
+      <node id="United Kingdom" label="United Kingdom" />
+      <node id="Peter Mimpriss" label="Peter Mimpriss" />
+      <node id="Saqqara" label="Saqqara" />
+      <node id="Egyptian artefacts" label="Egyptian artefacts" />
+      <node id="Las Limas Monument 1" label="Las Limas Monument 1" />
+      <node id="Xalapa" label="Xalapa" />
+      <node id="excavation storeroom at Venosa" label="excavation storeroom at Venosa" />
+      <node id="Señor de Las Limas" label="Señor de Las Limas" />
+      <node id="western-most ( farthest right ) maithuna" label="western-most ( farthest right ) maithuna" />
+      <node id="St Petersburg" label="St Petersburg" />
+      <node id="Chester Gorman" label="Chester Gorman" />
+      <node id="Trujillo" label="Trujillo" />
+      <node id="Finland" label="Finland" />
+      <node id="Maya pottery" label="Maya pottery" />
+      <node id="Perth" label="Perth" />
+      <node id="South America" label="South America" />
+      <node id="Sylvanus Morley" label="Sylvanus Morley" />
+      <node id="Cancuén" label="Cancuén" />
+      <node id="Vladimir Mefty" label="Vladimir Mefty" />
+      <node id="Salvadoran antiquities" label="Salvadoran antiquities" />
+      <node id="Japan" label="Japan" />
+      <node id="Saudi Arabia" label="Saudi Arabia" />
+      <node id="San Antonio" label="San Antonio" />
+      <node id="Hong Kong" label="Hong Kong" />
+      <node id="Anne-Louise Schaffer" label="Anne-Louise Schaffer" />
+      <node id="Brendan Lynch" label="Brendan Lynch" />
+      <node id="Crocker Bank" label="Crocker Bank" />
+      <node id="University of Pennsylvania" label="University of Pennsylvania" />
+      <node id="Curator of Provenance" label="Curator of Provenance" />
+      <node id="Archaeological Survey of India" label="Archaeological Survey of India" />
+      <node id="Dyfri Williams" label="Dyfri Williams" />
+      <node id="US Army" label="US Army" />
+      <node id="University College Cork" label="University College Cork" />
+      <node id="Fine Arts Services" label="Fine Arts Services" />
+      <node id="Gaston Wallace" label="Gaston Wallace" />
+      <node id="Cambridge Centre for Precious Metal Research" label="Cambridge Centre for Precious Metal Research" />
+      <node id="Malter Galleries" label="Malter Galleries" />
+      <node id="Juan Pedro Laporte" label="Juan Pedro Laporte" />
+      <node id="Proyecto Nacional Tikal" label="Proyecto Nacional Tikal" />
+      <node id="Kirit L Mankodi" label="Kirit L Mankodi" />
+      <node id="Indian High Commissions" label="Indian High Commissions" />
+      <node id="Mensun Bound" label="Mensun Bound" />
+      <node id="Oxford University-based" label="Oxford University-based" />
+      <node id="Muriel Newman" label="Muriel Newman" />
+      <node id="Museum of Ethnography" label="Museum of Ethnography" />
+      <node id="Piotr Jaxa" label="Piotr Jaxa" />
+      <node id="Rolex Awards Website" label="Rolex Awards Website" />
+      <node id="Ramiz Rizk" label="Ramiz Rizk" />
+      <node id="Robert P Mitchell" label="Robert P Mitchell" />
+      <node id="Román Piña Chan" label="Román Piña Chan" />
+      <node id="National Museum of Anthropology" label="National Museum of Anthropology" />
+      <node id="Incirlik Air Base" label="Incirlik Air Base" />
+      <node id="Stephen Houston" label="Stephen Houston" />
+      <node id="Proyecto Arqueológico El Zotz" label="Proyecto Arqueológico El Zotz" />
+      <node id="Trinh Cao Tuong" label="Trinh Cao Tuong" />
+      <node id="Vietnamese Institute of Archaeology" label="Vietnamese Institute of Archaeology" />
+      <node id="CID" label="CID" />
+      <node id="William Bullard" label="William Bullard" />
+      <node id="University of Florida" label="University of Florida" />
+      <node id="William Grimes" label="William Grimes" />
+      <node id="William Saturno" label="William Saturno" />
+      <node id="Boston University" label="Boston University" />
+      <node id="Yakov Chernikov" label="Yakov Chernikov" />
+      <node id="Russian State Archive of Literature and Art" label="Russian State Archive of Literature and Art" />
+      <node id="Raffaele Monticelli" label="Raffaele Monticelli" />
+      <node id="Art Loss Register" label="Art Loss Register" />
+      <node id="Bill Verick" label="Bill Verick" />
+      <node id="Jordan Eth" label="Jordan Eth" />
+      <node id="Michael Ratner" label="Michael Ratner" />
+      <node id="Bolivian National Archives" label="Bolivian National Archives" />
+      <node id="Cristina Bubba" label="Cristina Bubba" />
+      <node id="Carl Cuthe" label="Carl Cuthe" />
+      <node id="Johnnie Fell" label="Johnnie Fell" />
+      <node id="Danilo Zicchi" label="Danilo Zicchi" />
+      <node id="Elie Borowsky" label="Elie Borowsky" />
+      <node id="National Museum of Ireland" label="National Museum of Ireland" />
+      <node id="Hischam Aboutaam" label="Hischam Aboutaam" />
+      <node id="Anna Spinello" label="Anna Spinello" />
+      <node id="Mario Bruno" label="Mario Bruno" />
+      <node id="Rosie Becchina" label="Rosie Becchina" />
+      <node id="Rajan Mathai" label="Rajan Mathai" />
+      <node id="Terry Rossiter" label="Terry Rossiter" />
+      <node id="Susan Lerer" label="Susan Lerer" />
+      <node id="Jiri Frel" label="Jiri Frel" />
+      <node id="Christos Michaelides" label="Christos Michaelides" />
+      <node id="E Pfuhl" label="E Pfuhl" />
+      <node id="Israeli" label="Israeli" />
+      <node id="Japanese" label="Japanese" />
+      <node id="excavation storeroom" label="excavation storeroom" />
+      <node id="Carnegie Institute" label="Carnegie Institute" />
+      <node id="El Salvadore" label="El Salvadore" />
+      <node id="Ministry of Culture" label="Ministry of Culture" />
+      <node id="Vietnamese Salvage Agency" label="Vietnamese Salvage Agency" />
+      <node id="Portakalci" label="Portakalci" />
+      <node id="US Air Force" label="US Air Force" />
+      <node id="Thai Fine Arts Department" label="Thai Fine Arts Department" />
+      <node id="University of Pennsylvania Museum" label="University of Pennsylvania Museum" />
+      <node id="Empress Dou Figurines" label="Empress Dou Figurines" />
+    </nodes>
+    <edges>
+      <edge source="Abraham Trust" target="Geoffrey Jenkinson" id="0" />
+      <edge source="Abraham Trust" target="Marquess of Northampton" id="1" />
+      <edge source="Abraham Trust" target="Peter Wilson" id="2" />
+      <edge source="Abraham Trust" target="Philip Wilson" id="3" />
+      <edge source="Abraham Trust" target="Rainer Zietz" id="4" />
+      <edge source="Abraham Trust" target="Tom Wilson" id="5" />
+      <edge source="Abraham Trust" target="Ramiz Rizk" id="6" />
+      <edge source="Benjamin Bishop Johnson" target="David Swetnam" id="7" />
+      <edge source="Benjamin Bishop Johnson" target="Michael Kelly" id="8" />
+      <edge source="David Swetnam" target="Charles Craig" id="9" />
+      <edge source="David Swetnam" target="Jacqueline Swetnam" id="10" />
+      <edge source="David Swetnam" target="Peru" id="11" />
+      <edge source="David Swetnam" target="Bolivia" id="12" />
+      <edge source="David Swetnam" target="Canada" id="13" />
+      <edge source="David Swetnam" target="Vancouver" id="14" />
+      <edge source="David Swetnam" target="United States" id="15" />
+      <edge source="David Swetnam" target="United Kingdom" id="16" />
+      <edge source="David Swetnam" target="United States Customs" id="17" />
+      <edge source="David Swetnam" target="Fred Drew" id="18" />
+      <edge source="David Swetnam" target="Michael Kelly" id="19" />
+      <edge source="David Swetnam" target="Miguel de Osma Berckemeyer" id="20" />
+      <edge source="Donald Hales" target="Leonardo Patterson" id="21" />
+      <edge source="Leonardo Patterson" target="Paul Clifford" id="22" />
+      <edge source="Leonardo Patterson" target="New York" id="23" />
+      <edge source="Leonardo Patterson" target="Ed Dwyer" id="24" />
+      <edge source="Leonardo Patterson" target="Precolumbian figurines" id="25" />
+      <edge source="Leonardo Patterson" target="sea turtle eggs" id="26" />
+      <edge source="Leonardo Patterson" target="Spain" id="27" />
+      <edge source="Leonardo Patterson" target="Munich" id="28" />
+      <edge source="Leonardo Patterson" target="El Manatí Style Busts" id="29" />
+      <edge source="Leonardo Patterson" target="fake monumental head" id="30" />
+      <edge source="Leonardo Patterson" target="figural carvings" id="31" />
+      <edge source="Leonardo Patterson" target="Wayne Anderson" id="32" />
+      <edge source="Leonardo Patterson" target="El Manatí" id="33" />
+      <edge source="Leonardo Patterson" target="Marjorie Neikrug" id="34" />
+      <edge source="Giacomo Medici" target="Nikolas Koutoulakis" id="35" />
+      <edge source="Giacomo Medici" target="Carabinieri" id="36" />
+      <edge source="Giacomo Medici" target="Antiquaria Romana" id="37" />
+      <edge source="Giacomo Medici" target="Arts Franc" id="38" />
+      <edge source="Giacomo Medici" target="Christian Boursaud" id="39" />
+      <edge source="Giacomo Medici" target="Mat Securitas" id="40" />
+      <edge source="Giacomo Medici" target="Sotheby's" id="41" />
+      <edge source="Giacomo Medici" target="Tecafin Fiduciaire" id="42" />
+      <edge source="Giacomo Medici" target="Geneva-based Editions Services" id="43" />
+      <edge source="Giacomo Medici" target="Asia" id="44" />
+      <edge source="Giacomo Medici" target="Atlantis Antiquities" id="45" />
+      <edge source="Giacomo Medici" target="Euphronios ( Sarpedon ) krater" id="46" />
+      <edge source="Giacomo Medici" target="Rome" id="47" />
+      <edge source="Giacomo Medici" target="Switzerland" id="48" />
+      <edge source="Giacomo Medici" target="Geneva" id="49" />
+      <edge source="Giacomo Medici" target="Hydra Gallery" id="50" />
+      <edge source="Giacomo Medici" target="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " id="51" />
+      <edge source="Giacomo Medici" target="Egypt" id="52" />
+      <edge source="Giacomo Medici" target="Greece" id="53" />
+      <edge source="Giacomo Medici" target="Italy" id="54" />
+      <edge source="Giacomo Medici" target="Syria" id="55" />
+      <edge source="Giacomo Medici" target="Barbara Fleischman" id="56" />
+      <edge source="Giacomo Medici" target="George Ortiz" id="57" />
+      <edge source="Giacomo Medici" target="Hunt brothers" id="58" />
+      <edge source="Giacomo Medici" target="José Luis Várez Fisa" id="59" />
+      <edge source="Giacomo Medici" target="Lawrence Fleischman" id="60" />
+      <edge source="Giacomo Medici" target="Leon Levy" id="61" />
+      <edge source="Giacomo Medici" target="Maurice Tempelsman" id="62" />
+      <edge source="Giacomo Medici" target="Robert Hecht" id="63" />
+      <edge source="Giacomo Medici" target="Shelby White" id="64" />
+      <edge source="Giacomo Medici" target="Boston Museum of Fine Arts" id="65" />
+      <edge source="Giacomo Medici" target="Cleveland Museum of Art" id="66" />
+      <edge source="Giacomo Medici" target="J Paul Getty Museum" id="67" />
+      <edge source="Giacomo Medici" target="Metropolitan Museum of Art" id="68" />
+      <edge source="Giacomo Medici" target="Geneva storerooms" id="69" />
+      <edge source="Giacomo Medici" target="Frieda Tchacos" id="70" />
+      <edge source="Giacomo Medici" target="Hischam Aboutaam" id="71" />
+      <edge source="Giacomo Medici" target="Robin Symes" id="72" />
+      <edge source="Giacomo Medici" target="Pasquale Camera" id="73" />
+      <edge source="Giacomo Medici" target="E Pfuhl" id="74" />
+      <edge source="Giacomo Medici" target="Medici Polaroid" id="75" />
+      <edge source="Giacomo Medici" target="Marion True" id="76" />
+      <edge source="Nikolas Koutoulakis" target="Robert Hecht" id="77" />
+      <edge source="Jack Ogden" target="Michael Ward Gallery" id="78" />
+      <edge source="Jack Ogden" target="Cambridge Centre for Precious Metal Research" id="79" />
+      <edge source="Michael Ward Gallery" target="John Betts" id="80" />
+      <edge source="Michael Ward Gallery" target="sealstones" id="81" />
+      <edge source="Michael Ward Gallery" target="Mycenaean objects" id="82" />
+      <edge source="Michael Ward Gallery" target="Michael Ward" id="83" />
+      <edge source="Michael Ward Gallery" target="gold jewelry" id="84" />
+      <edge source="Joel Malter" target="Robert Olson" id="85" />
+      <edge source="Joel Malter" target="Sezai Portakalci" id="86" />
+      <edge source="Joel Malter" target="Malter Galleries" id="87" />
+      <edge source="Joel Malter" target="Susan Lerer" id="88" />
+      <edge source="Robert Olson" target="Thailand" id="89" />
+      <edge source="Robert Olson" target="Los Angeles" id="90" />
+      <edge source="Robert Olson" target="Bobbyo Imports" id="91" />
+      <edge source="Robert Olson" target="warehouse" id="92" />
+      <edge source="Robert Olson" target="archaeological artefacts" id="93" />
+      <edge source="Robert Olson" target="Asia" id="94" />
+      <edge source="Robert Olson" target="eBay" id="95" />
+      <edge source="Robert Olson" target="Barry MacLean" id="96" />
+      <edge source="Robert Olson" target="Jonathan and Cari Markell" id="97" />
+      <edge source="Robert Olson" target="MacLean" id="98" />
+      <edge source="Robert Olson" target="Armand Labbé" id="99" />
+      <edge source="Paul Clifford" target="Precolumbian art" id="100" />
+      <edge source="Roxanna Brown" target="Jonathan and Cari Markell" id="101" />
+      <edge source="Roxanna Brown" target="Bangkok University's Southeast Asian Ceramics Museum" id="102" />
+      <edge source="Jonathan and Cari Markell" target="Los Angeles County Museum of Art" id="103" />
+      <edge source="Jonathan and Cari Markell" target="Silk Roads Gallery" id="104" />
+      <edge source="Edward Johnson" target="Immigration and Customs Enforcement" id="105" />
+      <edge source="Edward Johnson" target="Joseph Garner" id="106" />
+      <edge source="Edward Johnson" target="Cairo" id="107" />
+      <edge source="Edward Johnson" target="US Army" id="108" />
+      <edge source="Immigration and Customs Enforcement" target="Phoenix Ancient Art" id="109" />
+      <edge source="Immigration and Customs Enforcement" target="Art Loss Register" id="110" />
+      <edge source="Carabinieri" target="Marion True" id="111" />
+      <edge source="Carabinieri" target="Giuseppe Mascara" id="112" />
+      <edge source="Carabinieri" target="Geneva" id="113" />
+      <edge source="Carabinieri" target="Geneva storerooms" id="114" />
+      <edge source="Carabinieri" target="Robert Hecht" id="115" />
+      <edge source="Dikran Sarrafian" target="Euphronios ( Sarpedon ) krater" id="116" />
+      <edge source="Dikran Sarrafian" target="Robert Hecht" id="117" />
+      <edge source="Dikran Sarrafian" target="Metropolitan Museum of Art" id="118" />
+      <edge source="Dikran Sarrafian" target="Leon Levy" id="119" />
+      <edge source="Dikran Sarrafian" target="Muriel Newman" id="120" />
+      <edge source="Euphronios ( Sarpedon ) krater" target="Metropolitan Museum of Art" id="121" />
+      <edge source="Euphronios ( Sarpedon ) krater" target="Euphronios" id="122" />
+      <edge source="Euphronios ( Sarpedon ) krater" target="Euxitheos" id="123" />
+      <edge source="Euphronios ( Sarpedon ) krater" target="Athens" id="124" />
+      <edge source="Euphronios ( Sarpedon ) krater" target="Villa Giulia" id="125" />
+      <edge source="Euphronios ( Sarpedon ) krater" target="Cerveteri" id="126" />
+      <edge source="Euphronios ( Sarpedon ) krater" target="Switzerland" id="127" />
+      <edge source="Barry MacLean" target="Ban Chiang pottery" id="128" />
+      <edge source="Berry &amp; Stark Associates" target="El Zotz Wooden Lintel" id="129" />
+      <edge source="Berry &amp; Stark Associates" target="Denver Art Museum" id="130" />
+      <edge source="Berry &amp; Stark Associates" target="Edward Merrin" id="131" />
+      <edge source="El Zotz Wooden Lintel" target="Denver Art Museum" id="132" />
+      <edge source="El Zotz Wooden Lintel" target="El Zotz" id="133" />
+      <edge source="El Zotz Wooden Lintel" target="Temple 1" id="134" />
+      <edge source="El Zotz Wooden Lintel" target="Edward Merrin" id="135" />
+      <edge source="El Zotz Wooden Lintel" target="Museo Nacional de Arqueología e Etnología" id="136" />
+      <edge source="El Zotz Wooden Lintel" target="Guatemala" id="137" />
+      <edge source="El Zotz Wooden Lintel" target="United States" id="138" />
+      <edge source="Art Gallery of New South Wales" target="dragon ewers" id="139" />
+      <edge source="Art Gallery of New South Wales" target="Butterfields" id="140" />
+      <edge source="dragon ewers" target="British Museum" id="141" />
+      <edge source="British Museum" target="Alistair McAlpine" id="142" />
+      <edge source="British Museum" target="Butterfields" id="143" />
+      <edge source="British Museum" target="Dyfri Williams" id="144" />
+      <edge source="Nelson Rockefeller" target="Loma Negra" id="145" />
+      <edge source="Nelson Rockefeller" target="Everett Rassiga" id="146" />
+      <edge source="Nelson Rockefeller" target="Museum of Primitive Art" id="147" />
+      <edge source="Loma Negra" target="Vicús" id="148" />
+      <edge source="Loma Negra" target="Moche pieces" id="149" />
+      <edge source="Peter G Wray" target="mask made of fuschite depicting the sun god" id="150" />
+      <edge source="Peter G Wray" target="Andre Emmerich's New York Gallery" id="151" />
+      <edge source="mask made of fuschite depicting the sun god" target="Barbier-Mueller Pre-Columbian Art Museum" id="152" />
+      <edge source="Michigan-based Orpheus Art" target="Predynastic opium poppy vase" id="153" />
+      <edge source="Robin Symes" target="Morgantina Venus" id="154" />
+      <edge source="Robin Symes" target="Barbara Fleischman" id="155" />
+      <edge source="Robin Symes" target="Maurice Tempelsman" id="156" />
+      <edge source="Robin Symes" target="Renzo Canavesi" id="157" />
+      <edge source="Robin Symes" target="a collector from Chiasso" id="158" />
+      <edge source="Robin Symes" target="Medici Polaroid" id="159" />
+      <edge source="Robin Symes" target="London" id="160" />
+      <edge source="Robin Symes" target="J Paul Getty Museum" id="161" />
+      <edge source="Robin Symes" target="Christos Michaelides" id="162" />
+      <edge source="Morgantina Venus" target="Morgantina" id="163" />
+      <edge source="Morgantina Venus" target="Orazio di Simone" id="164" />
+      <edge source="Morgantina Venus" target="Italy" id="165" />
+      <edge source="Morgantina Venus" target="J Paul Getty Museum" id="166" />
+      <edge source="Morgantina Venus" target="Switzerland" id="167" />
+      <edge source="Leon Levy" target="second Euphronios krater" id="168" />
+      <edge source="Leon Levy" target="Boston Museum of Fine Arts" id="169" />
+      <edge source="Leon Levy" target="Shelby White" id="170" />
+      <edge source="Leon Levy" target="Gianfranco Becchina" id="171" />
+      <edge source="second Euphronios krater" target="Shelby White" id="172" />
+      <edge source="second Euphronios krater" target="Italy" id="173" />
+      <edge source="Shelby White" target="Museum of Fine Arts" id="174" />
+      <edge source="Shelby White" target="Gianfranco Becchina" id="175" />
+      <edge source="J Paul Getty Museum" target="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " id="176" />
+      <edge source="J Paul Getty Museum" target="Second century AD copy of a head of Diadoumenos by Polykleitos" id="177" />
+      <edge source="J Paul Getty Museum" target="red-figure krater by Asteas" id="178" />
+      <edge source="J Paul Getty Museum" target="Antike Kunst Palladion" id="179" />
+      <edge source="J Paul Getty Museum" target="Barbara Fleischman" id="180" />
+      <edge source="J Paul Getty Museum" target="Frieda Tchacos" id="181" />
+      <edge source="J Paul Getty Museum" target="Hydra Gallery" id="182" />
+      <edge source="J Paul Getty Museum" target="Samuel Schweitzer" id="183" />
+      <edge source="J Paul Getty Museum" target="Marion True" id="184" />
+      <edge source="J Paul Getty Museum" target="Galerie Nefer" id="185" />
+      <edge source="J Paul Getty Museum" target="Gordon McClendon" id="186" />
+      <edge source="J Paul Getty Museum" target="Michael Milken" id="187" />
+      <edge source="J Paul Getty Museum" target="Dietrich von Bothmer" id="188" />
+      <edge source="J Paul Getty Museum" target="Frederick Schultz" id="189" />
+      <edge source="J Paul Getty Museum" target="Fritz Bürki" id="190" />
+      <edge source="J Paul Getty Museum" target="Maurice Tempelsman" id="191" />
+      <edge source="J Paul Getty Museum" target="Robert Hecht" id="192" />
+      <edge source="J Paul Getty Museum" target="Royal Athena Galleries" id="193" />
+      <edge source="J Paul Getty Museum" target="Gianfranco Becchina" id="194" />
+      <edge source="J Paul Getty Museum" target="Fleischman Collection" id="195" />
+      <edge source="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " target="Cerveteri" id="196" />
+      <edge source="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " target="Italy" id="197" />
+      <edge source="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " target="Frieda Tchacos" id="198" />
+      <edge source="Fifth-century BC Attic red-figured kylix, signed by Euphronios as potter and painted by Onesimos " target="Hydra Gallery" id="199" />
+      <edge source="Second century AD copy of a head of Diadoumenos by Polykleitos" target="excavation storeroom at Venosa" id="200" />
+      <edge source="Second century AD copy of a head of Diadoumenos by Polykleitos" target="excavation storeroom" id="201" />
+      <edge source="Metropolitan Museum of Art" target="Alan C Lapiner" id="202" />
+      <edge source="Metropolitan Museum of Art" target="Museum of Primitive Art" id="203" />
+      <edge source="Metropolitan Museum of Art" target="Weary Herakles" id="204" />
+      <edge source="Metropolitan Museum of Art" target="Thomas Hoving" id="205" />
+      <edge source="Metropolitan Museum of Art" target="Sotheby's" id="206" />
+      <edge source="Metropolitan Museum of Art" target="Jane Costello Goldberg" id="207" />
+      <edge source="Metropolitan Museum of Art" target="Juan Luis Pereira" id="208" />
+      <edge source="Metropolitan Museum of Art" target="Leon J Buki" id="209" />
+      <edge source="Metropolitan Museum of Art" target="Gianfranco Becchina" id="210" />
+      <edge source="Metropolitan Museum of Art" target="Vicús" id="211" />
+      <edge source="Metropolitan Museum of Art" target="Dietrich von Bothmer" id="212" />
+      <edge source="Museum für Indische Kunst" target="Uma Maheshwar" id="213" />
+      <edge source="Museum für Indische Kunst" target="Mariane Yaldiz" id="214" />
+      <edge source="Uma Maheshwar" target="Wotol" id="215" />
+      <edge source="Uma Maheshwar" target="Nepal" id="216" />
+      <edge source="Uma Maheshwar" target="Patan Museum" id="217" />
+      <edge source="Provincial Archaeological Museum" target="Silver Hoard of Everbeek" id="218" />
+      <edge source="Sweden" target="totem pole" id="219" />
+      <edge source="Sweden" target="Olof Hansson" id="220" />
+      <edge source="totem pole" target="Canada" id="221" />
+      <edge source="red-figure krater by Asteas" target="Gianfranco Becchina" id="222" />
+      <edge source="Alan C Lapiner" target="Museum of Primitive Art" id="223" />
+      <edge source="Museum of Primitive Art" target="Julie Jones" id="224" />
+      <edge source="Museum of Primitive Art" target="Michael Rockefeller" id="225" />
+      <edge source="Museum of Primitive Art" target="Jane Costello Goldberg" id="226" />
+      <edge source="Museum of Primitive Art" target="Juan Luis Pereira" id="227" />
+      <edge source="Museum of Primitive Art" target="Leon J Buki" id="228" />
+      <edge source="Museum of Primitive Art" target="Anne-Louise Schaffer" id="229" />
+      <edge source="Alistair McAlpine" target="John Cummings" id="230" />
+      <edge source="Detroit Institute of Art" target="André Emmerich" id="231" />
+      <edge source="André Emmerich" target="New York" id="232" />
+      <edge source="André Emmerich" target="Ed Dwyer" id="233" />
+      <edge source="Antike Kunst Palladion" target="Medici Polaroid" id="234" />
+      <edge source="Antike Kunst Palladion" target="Gianfranco Becchina" id="235" />
+      <edge source="Art Consultancy" target="Anton Tkalec" id="236" />
+      <edge source="Art Consultancy" target="Peter Wilson" id="237" />
+      <edge source="Art Consultancy" target="Halim Korban" id="238" />
+      <edge source="Art Consultancy" target="Mansur Mokhtarzade" id="239" />
+      <edge source="Anton Tkalec" target="Sevso Plate" id="240" />
+      <edge source="Anton Tkalec" target="Halim Korban" id="241" />
+      <edge source="Anton Tkalec" target="Mansur Mokhtarzade" id="242" />
+      <edge source="Antonio ‘Nino' Savoca" target="Luigi Coppola" id="243" />
+      <edge source="Antonio ‘Nino' Savoca" target="Frieda Tchacos" id="244" />
+      <edge source="Antonio ‘Nino' Savoca" target="Munich" id="245" />
+      <edge source="Luigi Coppola" target="Melfi vases" id="246" />
+      <edge source="Luigi Coppola" target="Pasquale Camera" id="247" />
+      <edge source="Barbara Fleischman" target="Fleischman Collection" id="248" />
+      <edge source="Barbara Fleischman" target="Medici Polaroid" id="249" />
+      <edge source="Barbara Fleischman" target="Lawrence Fleischman" id="250" />
+      <edge source="Barbara Fleischman" target="Edward Merrin" id="251" />
+      <edge source="Barbara Fleischman" target="Marion True" id="252" />
+      <edge source="Michael Kelly" target="Art Collections Conservation Network" id="253" />
+      <edge source="Michael Kelly" target="Los Angeles International Airport" id="254" />
+      <edge source="Charles Craig" target="Santa Barbara Museum of Art" id="255" />
+      <edge source="Charles Craig" target="United States Customs" id="256" />
+      <edge source="Charles Craig" target="Crocker Bank" id="257" />
+      <edge source="Dietrich von Bothmer" target="Robert Hecht" id="258" />
+      <edge source="Dietrich von Bothmer" target="Gianfranco Becchina" id="259" />
+      <edge source="Robert Hecht" target="Pasquale Camera" id="260" />
+      <edge source="Robert Hecht" target="Switzerland" id="261" />
+      <edge source="Robert Hecht" target="United States" id="262" />
+      <edge source="Robert Hecht" target="Boston Museum of Fine Arts" id="263" />
+      <edge source="Robert Hecht" target="Fritz Bürki" id="264" />
+      <edge source="Robert Hecht" target="Gianfranco Becchina" id="265" />
+      <edge source="Robert Hecht" target="Marion True" id="266" />
+      <edge source="Enrico Poli" target="Pereda" id="267" />
+      <edge source="Enrico Poli" target="Trujillo" id="268" />
+      <edge source="Pereda" target="Fred Drew" id="269" />
+      <edge source="Pereda" target="Sipán" id="270" />
+      <edge source="Pereda" target="Emil Bernal" id="271" />
+      <edge source="Fleischman Collection" target="Atlantis Antiquities" id="272" />
+      <edge source="Fleischman Collection" target="Fritz Bürki" id="273" />
+      <edge source="Fleischman Collection" target="Lawrence Fleischman" id="274" />
+      <edge source="Atlantis Antiquities" target="Fritz Bürki" id="275" />
+      <edge source="Fritz Bürki" target="Medici Polaroid" id="276" />
+      <edge source="Fred Drew" target="Miguel de Osma Berckemeyer" id="277" />
+      <edge source="Frieda Tchacos" target="Galerie Nefer" id="278" />
+      <edge source="Frieda Tchacos" target="Pasquale Camera" id="279" />
+      <edge source="Hoi An" target="Captain Trang" id="280" />
+      <edge source="Captain Trang" target="Cu Lao Cham" id="281" />
+      <edge source="Jean Aurance" target="Pierre Langlois" id="282" />
+      <edge source="Pierre Langlois" target="Earl Stendahl" id="283" />
+      <edge source="Marquess of Northampton" target="Korban and Tkalec" id="284" />
+      <edge source="Marquess of Northampton" target="Sevso Treasure" id="285" />
+      <edge source="Marquess of Northampton" target="Peter Mimpriss" id="286" />
+      <edge source="Maurice Tempelsman" target="Medici Polaroid" id="287" />
+      <edge source="Michael Rockefeller" target="Andre Emmerich Gallery" id="288" />
+      <edge source="Everett Rassiga" target="Josué Sáenz" id="289" />
+      <edge source="Everett Rassiga" target="Placeres" id="290" />
+      <edge source="Thailand" target="western-most ( farthest right ) maithuna" id="291" />
+      <edge source="Renzo Canavesi" target="Orazio di Simone" id="292" />
+      <edge source="Renzo Canavesi" target="Switzerland" id="293" />
+      <edge source="Ted Wiener" target="Clive Hollinshead" id="294" />
+      <edge source="Clive Hollinshead" target="Miami" id="295" />
+      <edge source="Clive Hollinshead" target="Ed Dwyer" id="296" />
+      <edge source="Clive Hollinshead" target="Harry Brown" id="297" />
+      <edge source="Clive Hollinshead" target="Johnnie Brown Fell" id="298" />
+      <edge source="Clive Hollinshead" target="Johnnie Fell" id="299" />
+      <edge source="Clive Hollinshead" target="Jorge Alamilla" id="300" />
+      <edge source="Hydra Gallery" target="Christian Boursaud" id="301" />
+      <edge source="Samuel Schweitzer" target="Vasek Polak" id="302" />
+      <edge source="Samuel Schweitzer" target="Medici Polaroid" id="303" />
+      <edge source="John Cummings" target="Christie's" id="304" />
+      <edge source="John Cummings" target="James Garriock" id="305" />
+      <edge source="Christie's" target="Israeli private collection" id="306" />
+      <edge source="Christie's" target="alabaster duck vessels" id="307" />
+      <edge source="Christie's" target="Barry Stern" id="308" />
+      <edge source="Christie's" target="Vaman Ghiya" id="309" />
+      <edge source="Christie's" target="Gianfranco Becchina" id="310" />
+      <edge source="Christie's" target="Israeli" id="311" />
+      <edge source="Orazio di Simone" target="Sicily" id="312" />
+      <edge source="Orazio di Simone" target="Switzerland" id="313" />
+      <edge source="Pasquale Camera" target="Gianfranco Becchina" id="314" />
+      <edge source="Pasquale Camera" target="Medici Polaroid" id="315" />
+      <edge source="Pasquale Camera" target="Danilo Zicchi" id="316" />
+      <edge source="Gianfranco Becchina" target="Medici Polaroid" id="317" />
+      <edge source="Gianfranco Becchina" target="Sotheby's" id="318" />
+      <edge source="Gianfranco Becchina" target="Ashmolean Museum" id="319" />
+      <edge source="Gianfranco Becchina" target="Princeton University Art Museum" id="320" />
+      <edge source="Gianfranco Becchina" target="Toledo Museum of Art" id="321" />
+      <edge source="Gianfranco Becchina" target="George Ortiz" id="322" />
+      <edge source="Gianfranco Becchina" target="Merrin Gallery" id="323" />
+      <edge source="Gianfranco Becchina" target="Noriyoshi Horiuchi" id="324" />
+      <edge source="Gianfranco Becchina" target="Raffaele Monticelli" id="325" />
+      <edge source="Gianfranco Becchina" target="Elie Borowsky" id="326" />
+      <edge source="Gianfranco Becchina" target="Anna Spinello" id="327" />
+      <edge source="Gianfranco Becchina" target="Mario Bruno" id="328" />
+      <edge source="Gianfranco Becchina" target="Rosie Becchina" id="329" />
+      <edge source="Christian Boursaud" target="Geneva" id="330" />
+      <edge source="Sotheby's" target="United States Customs" id="331" />
+      <edge source="Sotheby's" target="Chinese Embassy" id="332" />
+      <edge source="Sotheby's" target="Vaman Ghiya" id="333" />
+      <edge source="Sotheby's" target="Marquis of Tavistock" id="334" />
+      <edge source="Sotheby's" target="Phoenix Ancient Art" id="335" />
+      <edge source="Sotheby's" target="London" id="336" />
+      <edge source="Sotheby's" target="New York" id="337" />
+      <edge source="Sotheby's" target="Brendan Lynch" id="338" />
+      <edge source="Sotheby's" target="Peter Wilson" id="339" />
+      <edge source="Sotheby's" target="Empress Dou Figurines" id="340" />
+      <edge source="Moche pieces" target="David Bernstein" id="341" />
+      <edge source="Moche pieces" target="Dos Cabezas" id="342" />
+      <edge source="Moche pieces" target="La Mina" id="343" />
+      <edge source="Moche pieces" target="Raúl Apesteguía" id="344" />
+      <edge source="David Bernstein" target="New York" id="345" />
+      <edge source="sarcophagus" target="Editions Services" id="346" />
+      <edge source="sarcophagus" target="San Saba" id="347" />
+      <edge source="Armand Labbé" target="Bowers Museum" id="348" />
+      <edge source="Cornelius C Vermeule III" target="Boston Museum of Fine Arts" id="349" />
+      <edge source="Boston Museum of Fine Arts" target="Turkey" id="350" />
+      <edge source="Boston Museum of Fine Arts" target="Weary Herakles" id="351" />
+      <edge source="Boston Museum of Fine Arts" target="Curator of Provenance" id="352" />
+      <edge source="Boston Museum of Fine Arts" target="Robert P Mitchell" id="353" />
+      <edge source="Julie Jones" target="Anne-Louise Schaffer" id="354" />
+      <edge source="Larisa Zavadskaya" target="Hermitage" id="355" />
+      <edge source="Larisa Zavadskaya" target="Nikolay Zavadsky" id="356" />
+      <edge source="Larisa Zavadskaya" target="Alexander Yerofeyev" id="357" />
+      <edge source="Larisa Zavadskaya" target="Finland" id="358" />
+      <edge source="Hermitage" target="Nikolay Zavadsky" id="359" />
+      <edge source="Marion True" target="Jiri Frel" id="360" />
+      <edge source="Marion True" target="Lawrence Fleischman" id="361" />
+      <edge source="Sue McGovern" target="Sands of Time" id="362" />
+      <edge source="Sands of Time" target="Wallis Gallery" id="363" />
+      <edge source="Sands of Time" target="Art Loss Register" id="364" />
+      <edge source="Michael Ward" target="SPGH" id="365" />
+      <edge source="a vase" target="Mint Museum of Art" id="366" />
+      <edge source="a vase" target="Nasher Museum of Art" id="367" />
+      <edge source="Alfonso Medellín Zenil" target="Museum of Anthropology" id="368" />
+      <edge source="Museum of Anthropology" target="Señor de Las Limas" id="369" />
+      <edge source="Denver Art Museum" target="Harry Brown" id="370" />
+      <edge source="Denver Art Museum" target="Museo Nacional de Arqueología e Etnología" id="371" />
+      <edge source="Bonhams" target="Egyptian Embassy" id="372" />
+      <edge source="Bonhams" target="Luc Watrin" id="373" />
+      <edge source="Bonhams" target="Joseph Garnish" id="374" />
+      <edge source="Bonhams" target="Marquis of Tavistock" id="375" />
+      <edge source="Michael Webb" target="Elizabeth Shee Twohig" id="376" />
+      <edge source="Michael Webb" target="Supreme Court" id="377" />
+      <edge source="Elizabeth Shee Twohig" target="University College Cork" id="378" />
+      <edge source="Elizabeth Shee Twohig" target="National Museum of Ireland" id="379" />
+      <edge source="Museum of Fine Arts" target="Maya pottery" id="380" />
+      <edge source="Antalya Museum" target="Weary Herakles" id="381" />
+      <edge source="Weary Herakles" target="Perge" id="382" />
+      <edge source="Weary Herakles" target="National Museum" id="383" />
+      <edge source="Weary Herakles" target="Antalya" id="384" />
+      <edge source="Germany" target="Anton Roeckl" id="385" />
+      <edge source="Anton Roeckl" target="Dos Cabezas" id="386" />
+      <edge source="Las Limas" target="Rosa Manuel Pascual" id="387" />
+      <edge source="New York" target="Edward Merrin" id="388" />
+      <edge source="New York" target="Ed Dwyer" id="389" />
+      <edge source="New York" target="Johnnie Brown Fell" id="390" />
+      <edge source="New York" target="Vaman Ghiya" id="391" />
+      <edge source="New York" target="Phoenix Ancient Art" id="392" />
+      <edge source="Peru" target="Raúl Apesteguía" id="393" />
+      <edge source="Medici Polaroid" target="Rycroft Collection" id="394" />
+      <edge source="Departamento de Monumentos Arqueológicos" target="Dos Cabezas" id="395" />
+      <edge source="Dos Cabezas" target="Steve Bourget" id="396" />
+      <edge source="New York Times" target="Edward Merrin" id="397" />
+      <edge source="New York Times" target="William Grimes" id="398" />
+      <edge source="Edward Merrin" target="Merrin Gallery" id="399" />
+      <edge source="Flanders Heritage Agency" target="Velzeke Provincial Archaeological Museum" id="400" />
+      <edge source="United States Customs" target="Steven Berger" id="401" />
+      <edge source="United States Customs" target="Gaston Wallace" id="402" />
+      <edge source="United States Customs" target="Turkey" id="403" />
+      <edge source="US Homeland Security" target="John Eskenazi" id="404" />
+      <edge source="John Eskenazi" target="Arts of Asia" id="405" />
+      <edge source="Jorge Alamilla" target="Machaquilá Stela 2" id="406" />
+      <edge source="Jorge Alamilla" target="Ed Dwyer" id="407" />
+      <edge source="Jorge Alamilla" target="Johnnie Brown Fell" id="408" />
+      <edge source="Julio Ullilén" target="Laguna de los Cóndores" id="409" />
+      <edge source="Nikolay Zavadsky" target="Finlyandskiy" id="410" />
+      <edge source="Occupants of the modern village of" target="Ban Chiang" id="411" />
+      <edge source="Occupants of the modern village of" target="Udon" id="412" />
+      <edge source="Ban Chiang" target="red-on-buff decorated pottery" id="413" />
+      <edge source="Ban Chiang" target="Chester Gorman" id="414" />
+      <edge source="Ban Chiang" target="Occupants of the modern village of Ban Chiang" id="415" />
+      <edge source="Pablo Soldi" target="Ica Valley" id="416" />
+      <edge source="Pablo Soldi" target="Paul Truel" id="417" />
+      <edge source="Pablo Soldi" target="American Museum of Natural History" id="418" />
+      <edge source="baby-face figure" target="Las Bocas" id="419" />
+      <edge source="Las Bocas" target="Olmec" id="420" />
+      <edge source="Las Bocas" target="Caballo Pintado" id="421" />
+      <edge source="El Zotz" target="San Miguel la Palotada National Park" id="422" />
+      <edge source="El Zotz" target="Temple 1" id="423" />
+      <edge source="Moche headdress" target="La Mina" id="424" />
+      <edge source="mosaic floor" target="Zeugma" id="425" />
+      <edge source="mosaic floor" target="Gaziantep Museum" id="426" />
+      <edge source="Zeugma" target="statuary" id="427" />
+      <edge source="Olmec" target="Puebla" id="428" />
+      <edge source="red sandstone figure of a Jina" target="Vilasgarh temple" id="429" />
+      <edge source="red sandstone figure of a Jina" target="Vaman Ghiya" id="430" />
+      <edge source="red-on-buff decorated pottery" target="United States" id="431" />
+      <edge source="sacred textiles" target="Coroma" id="432" />
+      <edge source="sacred textiles" target="Roger Cornelius Russell Yorke" id="433" />
+      <edge source="sacred textiles" target="Steven Berger" id="434" />
+      <edge source="sculptural material" target="Xultún" id="435" />
+      <edge source="Xultún" target="Stela 3" id="436" />
+      <edge source="Xultún" target="Sylvanus Morley" id="437" />
+      <edge source="Xultún" target="Carnegie Institute" id="438" />
+      <edge source="sculptures" target="Hindu" id="439" />
+      <edge source="Hindu" target="Nepal" id="440" />
+      <edge source="Aidonia_Greece Treasure" target="Aidonia_Greece" id="441" />
+      <edge source="Aidonia_Greece Treasure" target="Greece" id="442" />
+      <edge source="torso of a second century AD statue of the god" target="Italian Giustiniani Collection" id="443" />
+      <edge source="Alberto Luna" target="Mexico" id="444" />
+      <edge source="Bobbyo Imports" target="Bangkok" id="445" />
+      <edge source="Bobbyo Imports" target="Chiang Mai" id="446" />
+      <edge source="Bobbyo Imports" target="Los Angeles" id="447" />
+      <edge source="Bobbyo Imports" target="Singapore" id="448" />
+      <edge source="Geneva" target="Vaman Ghiya" id="449" />
+      <edge source="DR Bhandarkar" target="Atru" id="450" />
+      <edge source="DR Bhandarkar" target="Archaeological Survey of India" id="451" />
+      <edge source="Atru" target="western-most ( farthest right ) maithuna" id="452" />
+      <edge source="Vaman Ghiya" target="India" id="453" />
+      <edge source="Vaman Ghiya" target="Artistic Imports Corporation )" id="454" />
+      <edge source="Vaman Ghiya" target="Cape Lion Logging" id="455" />
+      <edge source="Vaman Ghiya" target="Megavena" id="456" />
+      <edge source="Vaman Ghiya" target="London" id="457" />
+      <edge source="Vaman Ghiya" target="Delhi" id="458" />
+      <edge source="Vaman Ghiya" target="Jaipur" id="459" />
+      <edge source="Vaman Ghiya" target="Mathura" id="460" />
+      <edge source="Vaman Ghiya" target="Brendan Lynch" id="461" />
+      <edge source="Glenn Rittenour" target="Milwaukee" id="462" />
+      <edge source="Glenn Rittenour" target="Ed Dwyer" id="463" />
+      <edge source="Harry Brown" target="Helena" id="464" />
+      <edge source="Harry Brown" target="Johnnie Brown Fell" id="465" />
+      <edge source="Harry Brown" target="Machaquilá Stela 5" id="466" />
+      <edge source="Harry Brown" target="Ed Dwyer" id="467" />
+      <edge source="Olof Hansson" target="British Columbia" id="468" />
+      <edge source="Olof Hansson" target="Museum of Ethnography" id="469" />
+      <edge source="United States" target="Udon" id="470" />
+      <edge source="United States" target="Salvadoran antiquities" id="471" />
+      <edge source="United States" target="Bolivia" id="472" />
+      <edge source="United States" target="El Salvadore" id="473" />
+      <edge source="London" target="Miguel de Osma Berckemeyer" id="474" />
+      <edge source="London" target="Vladimir Mefty" id="475" />
+      <edge source="Roger Cornelius Russell Yorke" target="Truro" id="476" />
+      <edge source="Roger Cornelius Russell Yorke" target="Royal Canadian Mounted Police" id="477" />
+      <edge source="Roger Cornelius Russell Yorke" target="Steven Berger" id="478" />
+      <edge source="Roger Cornelius Russell Yorke" target="South America" id="479" />
+      <edge source="Stanley Boggs" target="El Salvador" id="480" />
+      <edge source="Swiss Air" target="JFK Airport" id="481" />
+      <edge source="Udon" target="Occupants of the modern village of Ban Chiang" id="482" />
+      <edge source="Sicyon" target="Lyssipos" id="483" />
+      <edge source="eBay" target="Butterfields" id="484" />
+      <edge source="eBay" target="Hoi An ceramics" id="485" />
+      <edge source="Butterfields" target="Ong Soo Hin" id="486" />
+      <edge source="Butterfields" target="a Denver museum" id="487" />
+      <edge source="Butterfields" target="a Los Angeles museum" id="488" />
+      <edge source="Butterfields" target="a Phoenix museum" id="489" />
+      <edge source="Butterfields" target="a Santa Barbara museum" id="490" />
+      <edge source="Butterfields" target="a Seattle museum" id="491" />
+      <edge source="Justin Kerr" target="Maya Vase Database" id="492" />
+      <edge source="Marquis of Tavistock" target="Toi moko" id="493" />
+      <edge source="Ong Soo Hin" target="Saga Horizon" id="494" />
+      <edge source="Ong Soo Hin" target="Perth" id="495" />
+      <edge source="Ong Soo Hin" target="Mensun Bound" id="496" />
+      <edge source="Ong Soo Hin" target="Vietnamese Salvage Agency" id="497" />
+      <edge source="Peter Wilson" target="Rainer Zietz" id="498" />
+      <edge source="Peter Wilson" target="Peter Mimpriss" id="499" />
+      <edge source="Flanders" target="Belgium" id="500" />
+      <edge source="Zona Arqueológica Cerro Dos Cabezas" target="Jequetepeque Valley" id="501" />
+      <edge source="PIASA" target="alabaster duck vessels" id="502" />
+      <edge source="PIASA" target="Rupert Wace" id="503" />
+      <edge source="alabaster duck vessels" target="Egypt" id="504" />
+      <edge source="alabaster duck vessels" target="Saqqara" id="505" />
+      <edge source="Barry Stern" target="Hillwood Museum" id="506" />
+      <edge source="Hillwood Museum" target="Egyptian artefacts" id="507" />
+      <edge source="Riddi Pradhan" target="Department of Archaeology" id="508" />
+      <edge source="Ed Dwyer" target="Marjorie Neikrug" id="509" />
+      <edge source="Ed Dwyer" target="Brooklyn Museum" id="510" />
+      <edge source="Egypt" target="Dynasty Tomb of Mutirdis" id="511" />
+      <edge source="Ballcourt Marker" target="Guatemala" id="512" />
+      <edge source="Guatemala" target="Macahquilá Stela 2" id="513" />
+      <edge source="Guatemala" target="Machaquilá Stela 5" id="514" />
+      <edge source="unprovenienced vessel" target="Morley Museum" id="515" />
+      <edge source="Rupert Wace" target="Egyptian" id="516" />
+      <edge source="Japanese dealers" target="Vietnam" id="517" />
+      <edge source="Vietnam" target="Japanese" id="518" />
+      <edge source="Miguel de Osma Berckemeyer" target="Fine Arts Services" id="519" />
+      <edge source="Guy Loudmer" target="Hôtel des Ventes" id="520" />
+      <edge source="Hôtel des Ventes" target="Hervé Poulin" id="521" />
+      <edge source="Halim Korban" target="Mansur Mokhtarzade" id="522" />
+      <edge source="James Garriock" target="Terry Rossiter" id="523" />
+      <edge source="Alexander Yerofeyev" target="St Petersburg" id="524" />
+      <edge source="Sezai Portakalci" target="Incirlik Air Base" id="525" />
+      <edge source="Stendahl Galleries" target="Minneapolis Institute of Arts" id="526" />
+      <edge source="Noriyoshi Horiuchi" target="Miho Museum" id="527" />
+      <edge source="Noriyoshi Horiuchi" target="Elie Borowsky" id="528" />
+      <edge source="Niels Heidenreich" target="Golden Horns" id="529" />
+      <edge source="Las Limas Monument 1" target="Xalapa" id="530" />
+      <edge source="Señor de Las Limas" target="San Antonio" id="531" />
+      <edge source="western-most ( farthest right ) maithuna" target="Hong Kong" id="532" />
+      <edge source="Chester Gorman" target="University of Pennsylvania" id="533" />
+      <edge source="Sylvanus Morley" target="Cancuén" id="534" />
+      <edge source="Sylvanus Morley" target="Carl Cuthe" id="535" />
+      <edge source="Vladimir Mefty" target="CID" id="536" />
+      <edge source="Salvadoran antiquities" target="Japan" id="537" />
+      <edge source="Salvadoran antiquities" target="Saudi Arabia" id="538" />
+      <edge source="Japan" target="El Salvadore" id="539" />
+      <edge source="Saudi Arabia" target="El Salvadore" id="540" />
+      <edge source="Juan Pedro Laporte" target="Proyecto Nacional Tikal" id="541" />
+      <edge source="Kirit L Mankodi" target="Indian High Commissions" id="542" />
+      <edge source="Indian High Commissions" target="Rajan Mathai" id="543" />
+      <edge source="Mensun Bound" target="Oxford University-based" id="544" />
+      <edge source="Piotr Jaxa" target="Rolex Awards Website" id="545" />
+      <edge source="Román Piña Chan" target="National Museum of Anthropology" id="546" />
+      <edge source="Stephen Houston" target="Proyecto Arqueológico El Zotz" id="547" />
+      <edge source="Trinh Cao Tuong" target="Vietnamese Institute of Archaeology" id="548" />
+      <edge source="Trinh Cao Tuong" target="Ministry of Culture" id="549" />
+      <edge source="William Bullard" target="University of Florida" id="550" />
+      <edge source="William Saturno" target="Boston University" id="551" />
+      <edge source="Yakov Chernikov" target="Russian State Archive of Literature and Art" id="552" />
+      <edge source="Bill Verick" target="Jordan Eth" id="553" />
+      <edge source="Bill Verick" target="Michael Ratner" id="554" />
+      <edge source="Bolivian National Archives" target="Cristina Bubba" id="555" />
+      <edge source="Portakalci" target="US Air Force" id="556" />
+      <edge source="Thai Fine Arts Department" target="University of Pennsylvania Museum" id="557" />
+    </edges>
+  </graph>
+</gexf>

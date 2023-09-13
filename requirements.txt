@@ -1,0 +1,13 @@
+networkx==2.6.3
+pyvis==0.1.9.0
+matplotlib==3.4.3
+numpy==1.21.4
+scipy==1.7.3
+python-igraph==0.9.7
+ipywidgets
+jupyter
+unidecode
+fuzzywuzzy
+community
+pandas
+jupyterlab
